@@ -7,7 +7,7 @@ I have uploaded my code to demonstrate how I implemented my code please do not j
 
 Requirements
 ------------
-I used Conda when devloping the code within this repositrie
+I used Conda exclusively when devloping the code within this repository and its associated libraries.
 
 License
 -------
